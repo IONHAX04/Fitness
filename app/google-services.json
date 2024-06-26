@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "118901648845",
+    "project_id": "healthsync-f6c1f",
+    "storage_bucket": "healthsync-f6c1f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:118901648845:android:76b42a2b742d6075a1e884",
+        "android_client_info": {
+          "package_name": "com.example.healthsync"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "118901648845-ljv16p50buvmb6ojjp7b5esdgrdb2som.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.healthsync",
+            "certificate_hash": "cd99c0be13a480c646c91e6eccab815ff1bf38e6"
+          }
+        },
+        {
+          "client_id": "118901648845-1369fcoahftdvii57knuhlqdbov28jd8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNOsAXe6I6wi5O-V8Ygi2v6sULvUUg6_U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "118901648845-1369fcoahftdvii57knuhlqdbov28jd8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Weight Loss With - Akshay Fitness</string>
+    <string name="application_name">Weight Loss With - Akshay Fitness</string>
+    <string name="login_text">Login</string>
+    <string name="register_text">Register</string>
+    <string name="introText">This app is in under development. Stay tuned...</string>
+    <string name="default_web_client_id">118901648845-1369fcoahftdvii57knuhlqdbov28jd8.apps.googleusercontent.com</string>
+    <string name="otp_text">Enter Mobile number to receive OTP</string>
+</resources>
